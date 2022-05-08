@@ -7,7 +7,7 @@
   const farhan = {
     pronouns: "he" | "him",
     code: [Python, Java, c],
-    skill: [pentesting, linux, bash],
+    skill: [pentesting, linux, bash, ctf],
     certificates: {
                         Certified Penetration Tester(CPT)
                      },  
@@ -32,15 +32,3 @@
     <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
-
-<br/>
-
-<div>
-  <a href="https://tryhackme.com/p/0xb1n">
-    <img src="https://img.shields.io/badge/THM-red?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"/>
-  </a>
-  <a href="https://www.hackthebox.com/home/users/profile/925264">
-    <img src="https://img.shields.io/badge/HTB-green?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge"/>
-  </a>
-</div>  
-
