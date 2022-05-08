@@ -1,4 +1,5 @@
 <h2>Hey there! I’m farhan.</h2>
+<img align='right' src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b76112fe74c4841a9c302597922e0b7a555942348be61&rid=giphy.gif&ct=g" width="230">
 
 <h3> About Me </h3>
 
@@ -34,8 +35,6 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b1n4ryw0rm&show_icons=true&locale=en" alt="b1n4ryw0rm" /></p>
-
 <div>
   <a href="https://tryhackme.com/p/0xb1n">
     <img src="https://img.shields.io/badge/THM-red?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"/>
@@ -44,3 +43,4 @@
     <img src="https://img.shields.io/badge/HTB-green?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge"/>
   </a>
 </div>  
+
