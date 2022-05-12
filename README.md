@@ -13,9 +13,8 @@
                      },  
     techCommunities: {
                           Organizer: "Autocratic Binaries",
-                          member: "dc0471", "muLearn", "Tinkerhub", "Shell"
+                          member: "dc0471", "Shell"
                         },
-    challenge: "I am doing the #100DaysOfCode challenge focused on Python"
   }
 </pre>
 
